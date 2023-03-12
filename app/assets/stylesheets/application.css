@@ -98,3 +98,7 @@ strong {
 a {
   color: black;
 }
+
+h1 strong {
+  font-size: 30px;
+}
